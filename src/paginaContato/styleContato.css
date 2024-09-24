@@ -21,18 +21,24 @@
     margin-top: 2%;
 }
 
+.textocontatomapa {
+    font-family: "Rajdhani", sans-serif;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
 .titulocontato {
     font-family: "Rajdhani", sans-serif;
     font-size: 50px;
     font-weight: 600;
     color: azure;
-    margin-left: 20%;
+    margin-left: 10%;
     margin-bottom: 20%;
 }
 
 .titulofundo { 
     height: 5%;
-    width: 50%;
+    width: 100%;
     background: #45C8BB;
 }
 
@@ -93,3 +99,4 @@ iframe {
     padding: 8%;
     padding-top: 0;
 }
+
